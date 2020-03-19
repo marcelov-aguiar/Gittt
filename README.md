@@ -1,9 +1,8 @@
 # Repositório do curso
 
-
 <img src="github-logo.jpg" width="400" height="200">
 
-### Este repositório serve de exemplo para o curso de Git e GitHub
+##### Este repositório serve de exemplo para o curso de Git e GitHub
 
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
