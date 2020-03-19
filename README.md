@@ -1,8 +1,8 @@
 # Repositório do curso
 
-![Inserindo uma imagem](github-logo)
+![Inserindo uma imagem](github-logo.jpg)
 
-<img src="github-logo" width="100" height="100">
+<img src="github-logo.jpg" width="100" height="100">
 
 ### Este repositório serve de exemplo para o curso de Git e GitHub
 
